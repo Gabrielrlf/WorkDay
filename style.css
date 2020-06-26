@@ -1,0 +1,33 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+
+}
+#title{
+    text-align: center;
+    color: black;
+    font-size: 3em;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+footer{
+    text-align: center;
+}
+#app{
+    padding-top: 10rem;
+    text-align: center;
+    align-items:  center;
+}
+
+.lista{
+    margin: 0 auto;
+    width: 380px;
+    background-color: brown;
+    font-size:  20px;
+    border-radius:  10px;
+    
+ 
+}
